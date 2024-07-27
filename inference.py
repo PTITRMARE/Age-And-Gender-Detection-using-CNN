@@ -5,7 +5,7 @@ from Dataloader import *
 
 from model import *
 
-#from train import *
+from train import *
 
 import matplotlib.pyplot as plt
 

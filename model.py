@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 21 17:36:36 2023
-
-@author: dai
-"""
-
 from Config import *
 
 from Dataloader import *

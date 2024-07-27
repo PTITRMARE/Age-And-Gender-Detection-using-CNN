@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 21 17:05:35 2023
-
-@author: dai
-"""
 from Config import *
 
 def dataloader(data_dir):
